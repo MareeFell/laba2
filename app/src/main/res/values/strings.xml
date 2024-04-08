@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">g313.seroeva.lab01</string>
+    <string name="infoA">A:</string>
+    <string name="infoB">B:</string>
+    <string name="infoRes">Result:</string>
+    <string name="infoAdd">Add:</string>
+    <string name="infosub">Subtract:</string>
+    <string name="infoMult">Multiplay:</string>
+    <string name="infoDiv">Divide:</string>
+</resources>
